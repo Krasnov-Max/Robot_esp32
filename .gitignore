@@ -1,0 +1,6 @@
+*.[oad]
+*.mk
+*.md
+*.old
+*~
+build
